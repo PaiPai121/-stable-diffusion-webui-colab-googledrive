@@ -1,2 +1,6 @@
 # -stable-diffusion-webui-colab-googledrive
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaiPai121/stable-diffusion-webui-colab-googledrive/blob/main/sd_webui_colab_googledrive.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaiPai121/stable-diffusion-webui-colab-googledrive/blob/main/sd_webui_colab_googledrive.ipynb) | stable_diffusion_webui_colab <br /> [CompVis/stable-diffusion-v-1-4-original](https://huggingface.co/CompVis/stable-difCancel changesfusion-v-1-4-original)
+
+
+# -stable-diffusion-lora-train-colab-googledrive
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaiPai121/stable-diffusion-webui-colab-googledrive/blob/main/sd_webui_colab_lora.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaiPai121/stable-diffusion-webui-colab-googledrive/blob/main/sd_webui_colab_lora.ipynb) | sd_webui_colab_lora <br /> [CompVis/stable-diffusion-v-1-4-original](https://huggingface.co/CompVis/stable-difCancel changesfusion-v-1-4-original)
